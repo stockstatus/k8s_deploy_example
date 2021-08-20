@@ -65,6 +65,6 @@ generatorOptions:
   disableNameSuffixHash: false
   labels:
     generator: kustomize
-#images:
-#- name: karma
-#  newTag: v0.78
+images:
+- name: karma
+  newTag: v0.78
